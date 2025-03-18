@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
 </div>
 
 ###
@@ -35,8 +35,8 @@
 <h2 align="left">Stats</h2>
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoZuzi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoZuzi&theme=dark&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoZuzi&show_icons=true&theme=tokyonight) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoZuzi&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
-
+![Snake animation](https://github.com/LeoZuzi/LeoZuzi/blob/output/github-contribution-grid-snake.svg)
 ###
