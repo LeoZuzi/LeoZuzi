@@ -1,4 +1,4 @@
-<p align="left">Olá, eu sou Leonardo Zuzi<br><br>- 📚Formado em Analise e Desenvolvimento de Sistemas<br>- 🔭No momento, busco minha primeira oportunidade na area de tecnologia, com foco em me tornar um desenvolvedor back-end<br>- 🌱 Estudando Desenvolvimentos Web<br>- 📫Contate-me no email: leonardozuzi0@gmail.com</p>
+<p align="left">Olá, eu sou Leonardo Zuzi<br><br>- 📚Formado em Analise e Desenvolvimento de Sistemas<br>- 🔭No momento, busco minha primeira oportunidade na area de tecnologia, com foco em me tornar um desenvolvedor back-end<br>- 🌱 Estudando Java<br>- 📫Contate-me no email: leonardozuzi0@gmail.com</p>
 
 ###
 
